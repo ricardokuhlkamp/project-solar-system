@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap') ;
+
+.missionCard {
+  background-color: gray;
+  border-radius: 8px;
+  color: white;
+  font-family: Gugi , cursive;
+  font-size: 1vw;
+  margin: 10px;
+  padding: 10px;
+  width: 25%;
+}
+
+.containerP {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.p {
+  list-style-type: none;
+  margin: 5px;
+  text-align: center;
+}
+
+.missionName {
+  text-align: center;
+}

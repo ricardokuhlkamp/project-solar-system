@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap') ;
+
+.planetCard {
+  align-items: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.planets {
+  width: 70%;
+}
+
+.name {
+  font-family: Gugi , cursive;
+  font-size: 1.1vw;
+  text-align: center;
+}

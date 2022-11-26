@@ -1,0 +1,4 @@
+.solarSystem {
+  display: flex;
+  flex-direction: row;
+}
