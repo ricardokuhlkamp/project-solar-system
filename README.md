@@ -10,6 +10,8 @@
 ## 📝 Proposta:
 Neste projeto desenvolveu-se uma aplicação usando React com o objetivo de listar os planetas do sistema solar e também algumas das missões espacias.
 
+Este projeto foi desenvolvido no curso de desenvolvomento web da Trybe no módulo de Front-End e conta com o uso de React.
+
 ## 💡 Habilidades desenvolvidas:
 
 - Uso de conceitos de React como componentes, props e composição de componentes.
