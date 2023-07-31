@@ -1,6 +1,6 @@
 # Project Solar System
 O projeto Solar System é uma aplicação React que permite demonstrar as missões espacias aos planetas do sistema solar. Esta aplicação apresenta uma interface amigável, permitindo aos usuários explorar detalhes de missões espaciais aos planetas do sistema solar. Os usuários poderão facilmente visualizar informações importantes, como o nome da missão, o ano em que foi realizada, o país responsável pelo seu desenvolvimento e o ano em que ocorreu.
-Este projeto foi desenvolvido no curso de desenvolvomento web da Trybe no módulo de Front-End e conta com o uso de React.
+Este projeto foi desenvolvido no curso de desenvolvomento web da Trybe no módulo de Front-End.
 # Demonstração
 
 <div style="display:flex" >
