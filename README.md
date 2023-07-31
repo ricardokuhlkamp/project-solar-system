@@ -8,7 +8,7 @@ Este projeto foi desenvolvido no curso de desenvolvomento web da Trybe no módul
 
   <img src="./src/images/mobile-solar-system.png" alt="macBook" style="width: 150px" />
 </div>
-- [___Veja o projeto em ação!___](https://project-solar-system-iota.vercel.app/) 🎬
+- [Veja o projeto em ação!](https://project-solar-system-iota.vercel.app/) 🎬
 
 > Para o deploy do projeto fora utilizado o [Vercel](https://vercel.com/)
 
