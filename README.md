@@ -8,10 +8,9 @@ Este projeto foi desenvolvido no curso de desenvolvomento web da Trybe no módul
 
   <img src="./src/images/mobile-solar-system.png" alt="macBook" style="width: 150px" />
 </div>
-- [Veja o projeto em ação](https://project-solar-system-iota.vercel.app/) 🎬
 
 > Para o deploy do projeto fora utilizado o [Vercel](https://vercel.com/)
-
+- [Veja o projeto em ação!](https://project-solar-system-iota.vercel.app/) 🎬
 ## 💡 Habilidades desenvolvidas:
 
 - Uso de conceitos de React como componentes, props e composição de componentes.
